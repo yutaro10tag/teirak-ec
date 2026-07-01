@@ -1,0 +1,18 @@
+{
+  "categories": [
+    { "id": "all",      "label": "すべて" },
+    { "id": "apron",    "label": "エプロン" },
+    { "id": "tshirt",   "label": "Tシャツ" },
+    { "id": "lunchmat", "label": "ランチョンマット" },
+    { "id": "tote",     "label": "トートバッグ" },
+    { "id": "socks",    "label": "靴下" }
+  ],
+  "dyeMaterials": [
+    { "id": "ai",        "label": "藍" },
+    { "id": "akane",     "label": "茜" },
+    { "id": "ki",        "label": "黄（植物染料）" },
+    { "id": "murasaki",  "label": "紫" },
+    { "id": "lavender",  "label": "ラベンダー" },
+    { "id": "other",     "label": "その他" }
+  ]
+}

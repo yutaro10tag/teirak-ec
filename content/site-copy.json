@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "tagline": "自然の色をまとう",
+    "subtext": "草木染めの一点もの。APU学生団体PREGNOが手染めする、地球の色。",
+    "cta": "商品を見る",
+    "ctaSecondary": "ブランドについて"
+  },
+  "brand": {
+    "name": "Teirak",
+    "by": "by PRENGO"
+  },
+  "nav": {
+    "products": "商品一覧",
+    "about": "Teirakについて",
+    "cart": "カート",
+    "instagram": "Instagram"
+  },
+  "products": {
+    "heading": "商品一覧",
+    "sold_out": "SOLD OUT",
+    "one_of_a_kind": "一点もの",
+    "add_to_cart": "カートに入れる",
+    "buy_now": "今すぐ購入",
+    "dye_material_label": "染料素材",
+    "stock_label": "残り",
+    "stock_unit": "点"
+  },
+  "cart": {
+    "heading": "カート",
+    "empty": "カートに商品がありません",
+    "subtotal": "小計",
+    "shipping": "配送料",
+    "shipping_free": "無料",
+    "total": "合計",
+    "checkout": "購入手続きへ",
+    "continue_shopping": "ショッピングを続ける",
+    "free_shipping_notice": "{{threshold}}円以上で送料無料"
+  },
+  "checkout": {
+    "heading": "購入手続き",
+    "name": "お名前",
+    "email": "メールアドレス",
+    "address": "住所",
+    "postal_code": "郵便番号",
+    "prefecture": "都道府県",
+    "city": "市区町村",
+    "address_detail": "番地・建物名",
+    "pay": "クレジットカードで支払う",
+    "secure_notice": "決済はStripeが安全に処理します"
+  },
+  "order_complete": {
+    "heading": "ご注文ありがとうございました",
+    "message": "注文確認メールをお送りしました。発送準備が整い次第、改めてご連絡します。",
+    "back_to_shop": "ショッピングを続ける"
+  },
+  "brand_story": {
+    "heading": "Teirakについて",
+    "subheading": "草木染めの色が生まれるまで",
+    "body": "PREGNOは別府を拠点とするAPU学生団体です。Teirakは、植物から採取した天然染料で一枚一枚手染めするブランド。同じ色は二度と生まれません。藍・茜・栗——自然が持つ色の多様さを、纏える形に。",
+    "process_heading": "草木染めの工程",
+    "values": [
+      { "label": "天然素材", "text": "化学染料を使わず、植物・鉱物由来の天然染料のみ使用" },
+      { "label": "手仕事", "text": "機械を使わず、一枚一枚手染め。同じ模様は存在しない" },
+      { "label": "一点もの", "text": "すべての商品に固有の表情があります" }
+    ]
+  },
+  "footer": {
+    "copy": "© 2026 Teirak / PRENGO",
+    "instagram": "Instagram",
+    "about": "Teirakについて",
+    "contact": "お問い合わせ"
+  }
+}
