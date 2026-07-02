@@ -2,13 +2,12 @@ import { NextRequest, NextResponse } from "next/server"
 import { createServiceClient } from "@/lib/supabase"
 import { Resend } from "resend"
 
-const resend = new Resend(process.env.RESEND_API_KEY)
-
 interface Params {
   params: Promise<{ id: string }>
 }
 
 export async function POST(_req: NextRequest, { params }: Params) {
+  const resend = new Resend(process.env.RESEND_API_KEY)
   const { id } = await params
   const supabase = createServiceClient()
 
