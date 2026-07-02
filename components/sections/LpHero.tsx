@@ -5,9 +5,9 @@ import { motion } from "framer-motion"
 import Image from "next/image"
 
 const SLIDES = [
-  "/images/hero-drying.jpg",
   "/images/hero-apron-yellow.jpg",
   "/images/story-cooking.jpg",
+  "/images/about-thailand.jpg",
 ]
 
 const INTERVAL_MS = 5000
